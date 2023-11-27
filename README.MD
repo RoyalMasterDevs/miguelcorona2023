@@ -96,4 +96,4 @@ BUG
 
 * } else
 
-    Lavate las manos.
+    Lavate las manos
