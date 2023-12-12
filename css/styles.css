@@ -1,0 +1,30 @@
+/* GLOBALES */
+body{
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    /* background-color: #000; */
+    position: absolute;
+}
+
+.vacations{
+    width: 50%;
+    position: relative;
+    margin: 0px 0 0 262px;
+
+}
+
+
+/* INDEX */
+
+
+
+/* PORTAFOLIO */
+.tituloPortafolio{
+    font-size: 10px;
+}
+
+#Titulo2{
+    background-color: blue;
+    width: 50%;
+}
