@@ -101,6 +101,8 @@ BUG
 
     Figma - Prototipo Portafoliio
 
-    https://www.figma.com/file/wK1R2dgzBDPfSkJIMaNnyU/Mi-Portafolio?type=design&node-id=0-1&mode=design&t=9AtAoJa3zWmxOt9d-0
+    SE AGREGAN NUEVOS LINKS DE PROTOTIPO PORTAFOLIO EN FIGMA
 
-    https://www.figma.com/proto/wK1R2dgzBDPfSkJIMaNnyU/Mi-Portafolio?type=design&node-id=7-3&t=9AtAoJa3zWmxOt9d-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A3
+    https://www.figma.com/file/wK1R2dgzBDPfSkJIMaNnyU/Mi-Portafolio?type=design&node-id=0-1&mode=design&t=CyKZPzqrKRj9Dm2F-0
+
+    https://www.figma.com/proto/wK1R2dgzBDPfSkJIMaNnyU/Mi-Portafolio?type=design&node-id=7-3&t=CyKZPzqrKRj9Dm2F-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A3&show-proto-sidebar=1
